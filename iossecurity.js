@@ -41,7 +41,7 @@ setTimeout(function(){
 		hook_by_export(moduleName, denyDebbuger);
 
 	}catch(e){
-		console.log(e.emssage)
+		console.log(e.message)
 	}
     
 }, 1);
